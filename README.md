@@ -1,6 +1,6 @@
 # [:moneybag: Feature to Predict Used Cars Market Price :car:](https://ahmadosman.com/BestCarDeal/)
 
-***Capstone-2-Project: Visualizing, and Analyzing around 500,000 Entries of Used Cars for Sale on Craigslist up to 2020 ***
+**Capstone-2-Project: Visualizing, and Analyzing around 500,000 Entries of Used Cars for Sale on Craigslist up to 2020**
 
 Predicting Used Cars Market Price and Identify good deals on the market.
 
