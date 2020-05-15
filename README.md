@@ -7,10 +7,12 @@ https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 
 **Problem Statement:**
+
 "How to increase sales revenue by 10% by utilizing market price prediction model to identify good price point in order to generate more online sales in coming six months?"
 There are many factors that impact on used cars price. To increase the selling price, it is good to identify the factors that have high impact on and correlation with price. The goal of this project is to use statistical inference and predictive analysis to explore if predictions of price can be made related to some factors such as the age of used cars, the exterior features and mechanical features of cars etc.  
 
 **Proposed Solution:**
+
 Perform exploratory analysis and predictive modeling from Craigslist Used Cars dataset.     
 Accurate predictive models can help us in general to identify market trend and niche market price as well as benefit us on increasing revenue.
 
