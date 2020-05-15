@@ -15,6 +15,7 @@ Perform exploratory analysis and predictive modeling from Craigslist Used Cars d
 Accurate predictive models can help us in general to identify market trend and niche market price as well as benefit us on increasing revenue.
 
 **Correlations**
+
 The study suggests that used cars have features such as it is a pick up cars with 6- 8 cylinder and sell in West, it can be priced higher price. 
 It further suggests that age and mileages are the main factors in deciding the market price but other features also play important roles such as the brand, type and location etc.
 
